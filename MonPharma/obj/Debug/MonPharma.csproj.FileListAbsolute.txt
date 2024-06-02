@@ -1,0 +1,10 @@
+c:\users\congo\documents\visual studio 2012\Projects\MonPharma\MonPharma\bin\Debug\MonPharma.exe.config
+c:\users\congo\documents\visual studio 2012\Projects\MonPharma\MonPharma\bin\Debug\MonPharma.exe
+c:\users\congo\documents\visual studio 2012\Projects\MonPharma\MonPharma\bin\Debug\MonPharma.pdb
+c:\users\congo\documents\visual studio 2012\Projects\MonPharma\MonPharma\obj\Debug\MonPharma.csprojResolveAssemblyReference.cache
+c:\users\congo\documents\visual studio 2012\Projects\MonPharma\MonPharma\obj\Debug\MonPharma.Properties.Resources.resources
+c:\users\congo\documents\visual studio 2012\Projects\MonPharma\MonPharma\obj\Debug\MonPharma.csproj.GenerateResource.Cache
+c:\users\congo\documents\visual studio 2012\Projects\MonPharma\MonPharma\obj\Debug\MonPharma.exe
+c:\users\congo\documents\visual studio 2012\Projects\MonPharma\MonPharma\obj\Debug\MonPharma.pdb
+C:\Users\congo\documents\visual studio 2012\Projects\MonPharma\MonPharma\obj\Debug\MonPharma.Accueil.resources
+C:\Users\congo\documents\visual studio 2012\Projects\MonPharma\MonPharma\obj\Debug\MonPharma.EspacePrincipal.resources

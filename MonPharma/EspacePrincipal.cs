@@ -65,7 +65,7 @@ namespace MonPharma
             panel3.Visible = false;
             panel4.Visible = false;
         }
-
+ // Add medecine's procedure
         private void buttonAjout_Click(object sender, EventArgs e)
         {
             OleDbCommand command = cnn.CreateCommand();
@@ -123,7 +123,7 @@ namespace MonPharma
             command.CommandText = "Insert into Clients(Nom, Telephone, Adresse) values('" + textBox8.Text + "','" + textBox5.Text + "','" + textBox7.Text + "')";
             command.Connection = cnn;
             command.ExecuteNonQuery();
-            MessageBox.Show("Le client a été inséré !");
+            MessageBox.Show("Le client a été inséré dans la base des données !");
             textBox8.Focus();
             textBox8.Text = "";
             textBox5.Text = "";
@@ -138,7 +138,7 @@ namespace MonPharma
             command.CommandText = "Insert into Ventes(DateVente, Total) values('" + dateTimePicker2.Value + "','" + textBox11.Text + "')";
             command.Connection = cnn;
             command.ExecuteNonQuery();
-            MessageBox.Show("La vente a été insérée !");
+            MessageBox.Show("La vente a été insérée avec succès !");
             textBox11.Focus();
             textBox11.Text = "";
             cnn.Close();
@@ -146,7 +146,7 @@ namespace MonPharma
 
         private void pictureBox3_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Fermeture de l'application !");
+            MessageBox.Show("Fermeture de l'application en cours !");
             Application.Exit();
         }
     }
